@@ -1,6 +1,12 @@
 [package]
-name = "validador"
-version = "0.1.0"
+name = "validador_carte-rust"
+version = "0.1.1"
 edition = "2024"
+authors = ["David"]
+description = "Aula de criar um validador de CPF e CNPJ em Rust Crate"
+license = "Free"
+repository = "https://github.com/davidMarostica/validador_carte-rust.git"
+documentation = "https://github.com/davidMarostica/validador_carte-rust/blob/main/README.md"
+homepage = "https://github.com/davidMarostica/validador_carte-rust"
 
 [dependencies]
